@@ -12,6 +12,22 @@ const mockProjects = [
     technologies: ["Replit"],
     githubLink: "https://github.com/brennankline-cyber/BlashRoyale.git"
   },
+  {
+    id: 1,
+    title: "Game To Be Made?",
+    description: "TBD",
+    image: "",
+    technologies: [""],
+    githubLink: ""
+  },
+  {
+    id: 1,
+    title: "Game To Be Made?",
+    description: "TBD",
+    image: "",
+    technologies: [""],
+    githubLink: ""
+  }
 ];
 
 const allTechnologies = ["All", "Replit"];
