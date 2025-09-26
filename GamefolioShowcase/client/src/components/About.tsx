@@ -5,13 +5,13 @@ import { Code, Gamepad2, Palette, Zap } from "lucide-react";
 const skills = [
   {
     category: "Game Engines",
-    items: ["Replit"],
+    items: ["Unity"],
     icon: Gamepad2,
     color: "text-blue-500"
   },
   {
     category: "Programming",
-    items: ["JavaScript", "Python", "HLSL"],
+    items: ["JavaScript", "Python", "HLSL", "HTML", "CSS", "C#"],
     icon: Code,
     color: "text-green-500"
   },
@@ -19,6 +19,12 @@ const skills = [
     category: "Technologies",
     items: ["WebGL"],
     icon: Zap,
+    color: "text-yellow-500"
+  },
+  {
+    category: "Vibecode Apps",
+    items: ["Replit"],
+    icon: Palette,
     color: "text-yellow-500"
   }
 ];
